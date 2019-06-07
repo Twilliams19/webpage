@@ -1,0 +1,11 @@
+p{
+    color: blue;
+    font: size 15px; 
+}
+.box{
+    background:gray;
+    height:100px ;
+    width: 1500px; 
+
+}
+body{background-color: aqua;  }

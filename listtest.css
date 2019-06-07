@@ -1,0 +1,42 @@
+ul{
+    list-style: disc ;
+    padding-top: 30px;
+}
+
+ol{
+    list-style: decimal ;
+    padding-inline-start: 20px;
+}
+
+
+ul {
+    list-style:disc ;
+    padding-left: 40px;
+  }
+  ol {
+    list-style: decimal;
+    padding-left: 40px;
+  }
+  table{
+      border-collapse: separate;
+      border-spacing: 4px;
+      widows: 100px;  
+  }
+  table,
+  th,
+  td{ 
+      border: 1px solid #0e0e0f;
+      text-align: left;
+      
+  }
+  th,
+  td{
+      padding: 10px 15px;
+  }
+  tr:nth-child(even) {
+      background-color: gray; 
+  }
+  body{
+      background: gold;
+
+  }
