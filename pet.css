@@ -1,0 +1,50 @@
+body {
+    background: linear-gradient(to right,blue , green);
+  }
+title{
+    font-style:italic;
+    font-size: 30px;
+    color: firebrick
+}
+table, th, td {
+    border: 1px solid black;
+    /* position: absolute; */
+
+  }
+  h1{
+    font-family: 'Roboto Mono', monospace;
+    font-size:  30px;
+    color: yellow; 
+    font-style: italic;
+    /* position: absolute; */
+
+  }
+  .am{
+    font-family: 'Roboto Mono', monospace;
+    font-size: 16px;
+    color: white;
+    position: absolute;
+    left: 30%;
+    bottom:10%;
+    
+}
+
+.you {
+    display: inline-block;
+}
+ img{
+     position: absolute;
+     left: 20%;
+     bottom: 10%;
+
+ }   
+.pi{
+    font-family: 'Roboto Mono', monospace;
+    font-size: 16px;
+    color: white;
+    position: absolute;
+    left: 30%;
+    margin-bottom: 30px;
+} 
+
+  
