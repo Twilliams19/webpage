@@ -1,0 +1,64 @@
+.button {
+	display: inline-block;
+	border-radius: 3px;
+	padding: 7px 12px;
+	border: 1px solid rgb(44, 68, 199);
+	background-image: linear-gradient(#EEE, #DDD);
+	font: 700 13px/18px Helvetica, arial;
+}
+.button--state-HS {
+	color: #FFF;
+	background: green linear-gradient(rgb(155, 155, 11),rgb(13, 196, 13)) repeat-x;
+	border-color: rgb(28, 58, 23);
+}
+.button--state-FP {
+    color: blue
+}
+    body {
+        background-color:palevioletred ;
+        color: rgb(63, 47, 156);
+        font: 600 14px/24px "Times New Roman"
+      }
+      .box-set,
+      .box {
+        border-radius: 6px;
+        
+      }
+      .box-set {
+        background:#4f4f53;
+        
+      }
+      .box {
+        background: #cccf09;
+        height: 80px;
+        line-height: 80px;
+        text-align: center;
+        width: 300px;
+    
+      }
+      div {
+        background-color: palegreen;
+        height: 500px;
+        width: 300px;
+        margin: 0;
+      }
+      p {
+        font-size: 20px;
+        background-color: rgb(160, 175, 170);
+        display: block;
+        width: 30%;
+        border-radius: 100% 0px 400px 50px;
+        border-radius: 20px;
+        margin: 20px;
+        padding: 20px;
+        box-sizing: border-box;
+        position: relative;
+      }
+      .third {
+        position: absolute;
+        bottom: 10;
+        left: 5%;
+        background:blue;
+        opacity: .9;
+      }
+      
